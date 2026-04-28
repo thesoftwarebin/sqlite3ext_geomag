@@ -18,7 +18,7 @@ See [test/test001-basic.sql](test/test001-basic.sql) for a few more usage exampl
 
 # How to Install
 
-`libgeomag-embedded.a` is a mandatory dependency. You may find sources and binaries in various places, for example [here](https://github.com/thesoftwarebin/geomag).
+`libgeomag-embedded.a` is a mandatory dependency. You may find sources and binaries in various places, for example [here](https://github.com/thesoftwarebin/libgeomag).
 
 If you have installed libgeomag in your standard library folders (e.g. `/usr/include/geomag.h` and `/usr/lib/libgeomag-embedded.a`), then building `sqlite3ext_geomag` requires a pretty standard procedure:
 
